@@ -1,0 +1,7 @@
+Sloopie
+*.java
+*.py
+*.png
+*.txt
+*.env
+*.DS_Store
